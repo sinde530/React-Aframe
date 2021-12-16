@@ -23,6 +23,11 @@ or
 yarn add aframe react-aframe-ar react react-dom
 ```
 
+## Assets Install
+```javascrit
+yarn add aframe-react-assets
+```
+
 <br>
 
 - checkout this basic example
